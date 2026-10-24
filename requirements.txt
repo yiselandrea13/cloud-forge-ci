@@ -1,3 +1,2 @@
 # La aplicacion usa solo la biblioteca estandar.
 
-requests==2.19.1
